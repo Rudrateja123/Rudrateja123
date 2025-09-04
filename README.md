@@ -65,15 +65,7 @@ I’m Rudra Teja Baswa, a 4th-year Computer Science student and aspiring Softwar
 </div>
 <div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rudrateja123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</div>
-<!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
 
 ### ✍️ Random Dev Quote
 
@@ -82,6 +74,6 @@ I’m Rudra Teja Baswa, a 4th-year Computer Science student and aspiring Softwar
 </div>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rudra.teja.baswa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__rudrateja_basava__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-teja-baswa-208227281) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RudratejaB14737) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basavarudra9@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-teja-baswa-208227281)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basavarudra9@gmail.com) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
